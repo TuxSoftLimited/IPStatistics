@@ -1,5 +1,5 @@
 # IPStatistics
-IPStatistics, Originally created by James Phillips <[james@jamesphillipsuk.com](mailto:james@jamesphillipsuk.com "Send a Message")> 2016 - released to GitHub 2017.  
+IPStatistics, by [TuxSoft Limited](http://tuxsoft.uk/ "visit our website"), based on the app of the same name by [James Philips](https://jamesphillipsuk.github.io "See his GitHub.io page") - released to GitHub 2017.  
 IPStatistics is a PHP plugin to allow website admins to monitor their analytics.
 
 ## About
@@ -30,4 +30,4 @@ CREATE TABLE IPTable('ID' BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,'IP' VARCHA
 6. When you want to check your site analytics, simply navigate to your web address /Analyse.php.
 
 ## Release Details
-This plugin was released on 26th July 2017 under the GNU General Public License v3.0 or later by James Phillips.  See the LICENSE file for more details.
+This plugin was released on 5th August 2017 under the GNU General Public License v3.0 or later by TuxSoft Limited.  See the LICENSE file for more details.
