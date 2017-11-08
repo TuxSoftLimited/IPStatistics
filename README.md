@@ -1,5 +1,5 @@
 # IPStatistics
-IPStatistics, by [TuxSoft Limited](http://tuxsoft.uk/ "visit our website"), based on the app of the same name by [James Philips](https://jamesphillipsuk.github.io "See his GitHub.io page") - released to GitHub 2017.  
+IPStatistics, by [TuxSoft Limited](http://tuxsoft.uk/ "visit our website"), based on the app of the same name by [James Phillips](https://jamesphillipsuk.github.io "See his GitHub.io page") - released to GitHub 2017.  
 IPStatistics is a PHP plugin to allow website admins to monitor their analytics.
 
 ## About
